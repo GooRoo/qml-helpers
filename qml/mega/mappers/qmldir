@@ -1,2 +1,3 @@
 module mega.mappers
 RangeMapper 1.0 RangeMapper.qml
+RealRangeMapper 1.0 RangeMapper.qml
