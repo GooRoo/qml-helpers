@@ -1,3 +1,4 @@
 module mega.mappers
+ColorInverter 1.0 ColorInverter.qml
 RangeMapper 1.0 RangeMapper.qml
 RealRangeMapper 1.0 RealRangeMapper.qml
